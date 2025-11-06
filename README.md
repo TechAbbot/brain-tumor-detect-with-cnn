@@ -72,3 +72,11 @@ Dense Layers: Fully connected layers culminating in a sigmoid (for binary) or so
 
 Output Layer: Predicts the probability of a brain tumor being present (or class label).
 
+
+## 🧑‍🎓 Author
+
+**👨‍💻 Jay Rathod**  
+*Software Engineer | AI & ML Trainer*  
+📍 Ahmedabad, India  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rathodjay3497/) | [GitHub](https://github.com/JayRathod341997)
